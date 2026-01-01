@@ -14,6 +14,12 @@ Passionate about growing in data analytics, learning new tools, and turning mess
 
 🌱 A little motivation for anyone navigating data, deadlines, and dashboards
 
+Here you’ll find:
+- 📈 **Power BI Dashboards** showcasing real analytics projects  
+- 🧠 **Data Cleaning & Modeling** using SQL and Excel  
+- 📊 **Interactive Reports** built to help decision-making  
+- 💡 **Insights from real & curated datasets**
+
 Whether the goal is to explore dashboards, learn something new, or see how real-world data problems get solved you’re in the right place 💙
 
 Let’s analyze, visualize, and grow together one dataset at a time.

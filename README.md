@@ -1,5 +1,6 @@
 🌸 Hey there! Thanks for stopping by
--This space is all about data, dashboards, and turning numbers into clarity 📊
+
+This space is all about data, dashboards, and turning numbers into clarity 📊
 
 Passionate about growing in data analytics, learning new tools, and turning messy datasets into meaningful insights because data should feel empowering, not intimidating.
 

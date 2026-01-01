@@ -1,4 +1,4 @@
-# 🌸 Hey there! Thanks for stopping by
+# 🌼 Hey there! Thanks for stopping by
 
 This space is all about data, dashboards, and turning numbers into clarity 📊
 

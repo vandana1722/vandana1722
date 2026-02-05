@@ -23,7 +23,11 @@ You bring the questions, I’ll bring the dashboards ☕📈
 ---
 
 ## 💻 Tech Stack
- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
- • **Excel** • **Pandas**  • **Data Modeling** • **DAX**![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-4B0082.svg?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-FFB000.svg?style=for-the-badge) ![Statistics](https://img.shields.io/badge/Statistics-2E8B57.svg?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-6A5ACD.svg?style=for-the-badge) ![Business Analysis](https://img.shields.io/badge/Business_Analysis-008080.svg?style=for-the-badge)
+
+
+
+ • **Pandas**  • **Data Modeling** • **DAX**
 
 

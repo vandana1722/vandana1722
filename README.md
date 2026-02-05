@@ -18,7 +18,7 @@ You bring the questions, I’ll bring the dashboards ☕📈
 ---
 
 ### 📬 Get in Touch
-<a href="https://www.linkedin.com/in/vandanadaksh/" target="_blank">LinkedIn</a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vandanadaksh) 
 
 ---
 

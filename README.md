@@ -28,6 +28,4 @@ You bring the questions, I’ll bring the dashboards ☕📈
 
 
 
- • **Pandas**  • **Data Modeling** • **DAX**
-
 
